@@ -23,5 +23,5 @@
 // console.log(sumRec([1, 2, 3]))
 
 function exponent(base, exp) {
-    
+    console.log("test")
 }
